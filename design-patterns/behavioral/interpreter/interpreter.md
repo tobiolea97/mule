@@ -2,7 +2,6 @@
 
 Used for converting one representation of data into another one. Is a way of translating one language into another. It defines a grammar, then uses an abstract syntax tree to interpret it.
 
-El patrón Interpreter es un patrón de diseño de comportamiento que se utiliza para definir una representación gramatical de un lenguaje y proporcionar un intérprete para tratar las oraciones de dicho lenguaje. Este patrón es útil cuando necesitas evaluar o interpretar expresiones en un lenguaje específico.
 
 ### Use Cases
 - SQL parser
